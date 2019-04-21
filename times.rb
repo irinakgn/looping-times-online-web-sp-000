@@ -1,4 +1,4 @@
-def using_times(times)
-  times.times do
+def using_times
+  5.times do
   puts "Penguins like to jump off icebergs!"
 end

@@ -1,3 +1,4 @@
 def using_times(times)
-	#youar code here
+  5.times do
+  puts "Penguins like to jump off icebergs!"
 end
